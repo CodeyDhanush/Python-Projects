@@ -33,7 +33,7 @@ if choice1 == "left":
     if choice2 == "wait":
         choice3 = input("You arrive at the island unharmed. "
                         "There is house with 3 doors. One red, "
-                        "one yellow and one blue. "
+                        "one yellow and one blue."
                         "Which colour do you choose?\n").lower()
         if choice3 == "red":
             print("It's a room full of fire. Game Over")
@@ -48,3 +48,4 @@ if choice1 == "left":
 
 else:
     print("You fell in to a hole. Game Over.")
+
