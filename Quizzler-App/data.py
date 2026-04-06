@@ -1,6 +1,6 @@
 import requests
 
-parameters = {
+parameters = { 
     "amount": 10,
     "type": "boolean",
 }
